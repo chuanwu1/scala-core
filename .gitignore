@@ -1,0 +1,5 @@
+# idea
+.idea
+scala-core.iml
+/target
+_AtomicTestErrors.txt
