@@ -3,3 +3,10 @@
 scala-core.iml
 /target
 _AtomicTestErrors.txt
+
+/tutorial/tutorial.iml
+/tutorial/target
+/exercies/exercies.iml
+/exercies/target
+/application/application.iml
+/application/target
