@@ -1,6 +1,6 @@
 package org.code.pomelo.scala.util.matching
 
-import org.code.pomelo.scala.basic.feature.AtomicTest._
+import scala.org.code.pomelo.scala.basic.feature.AtomicTest._
 /**
   * Created by user on 2017/5/11.
   *

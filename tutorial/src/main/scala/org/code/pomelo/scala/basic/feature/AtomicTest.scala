@@ -1,4 +1,4 @@
-package org.code.pomelo.scala.basic.feature
+package scala.org.code.pomelo.scala.basic.feature
 
 import java.io.FileWriter
 

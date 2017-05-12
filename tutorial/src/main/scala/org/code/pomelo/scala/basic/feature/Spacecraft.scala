@@ -1,4 +1,4 @@
-package org.code.pomelo.scala.basic.feature
+package scala.org.code.pomelo.scala.basic.feature
 
 /**
   * Created by user on 2017/5/10.
