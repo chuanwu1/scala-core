@@ -14,7 +14,7 @@ case class Cat(name:String,age:Int)
 
 object Cat{
   def main(args: Array[String]): Unit = {
-    val cats = Vector(Cat("Tom",2) , 121Cat(name = "Jerry",age = 1))
-    cats is "Vector(Cat(Tom,2), Cat(Jerry,1))"
+    val cats = Vector(Cat("Tom",2), Cat(name = "Jerry",age = 1))
+    cats is "Vector(Cat(Tom,2),Cat(name = Jerry,1))"
   }
 }
